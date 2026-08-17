@@ -31,4 +31,3 @@ Python · R · Random Forest / XGBoost / Neural Network · Power BI · scikit-le
 - `Dashboard - Power BI/` — dashboard files
 - `HDHI_Admission_data.csv` — dataset
 
-*Note: group project; my contribution = [INSERT YOUR PART — e.g. data prep, RF modelling, dashboard].*
